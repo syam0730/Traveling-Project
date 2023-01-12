@@ -1,0 +1,74 @@
+.navbar {
+    position: absolute;
+    top: 100px;
+   
+    width: 100%;
+    /* display: flex;
+    flex-direction: column;
+    width: 430px;
+    height: 417px;
+    background-color: black; */
+  }
+.gif{
+    margin-right: 30px;
+    margin-left: 30PX;
+}
+
+
+
+.title{
+  margin: 10px 100px 10px 10px;
+  color: red;
+  /* background-color: blanchedalmond; */
+  background: beige;
+  font-family: Poppins-light;
+}
+
+.dropbutton{
+  position: absolute;
+  top: 100px;
+  width: 100%;
+}
+
+.keybuttons{
+  display: flex;
+  font-family: Poppins-light;
+  font-size: 14px;
+  margin: auto 28px;
+  margin-top: -20px;
+  
+  
+}
+
+.keybuttons1{
+  color: white;
+  /* text-decoration-style: none; */
+  text-decoration-line: none;
+  
+}
+
+.sidebar{
+  margin-top: 160px;
+}
+.bannertext1{
+  color: white;
+}
+.bannertext2{
+  color: rgb(122, 252, 35);
+}
+
+/* .carouselslide{
+  top: 300px;
+  width: 100%;
+  height: 500px;
+}
+.carousel-indicators{
+  top: 300px;
+  width: 100%;
+  height: 500px;
+} */
+.banner{
+  margin-top: 90px;
+  width: 1300px;
+  margin-left: 115px;
+}
